@@ -23,4 +23,5 @@ Kullanılan Teknolojiler
 📌JavaScript: Dinamik bileşenler ve kullanıcı etkileşimleri.
 📌Bootstrap 5: Hızlı ve modern bir tasarım için önceden oluşturulmuş bileşenler.
 ![resim1](https://github.com/recepsamil/Personal-Cv-Page/blob/main/img/Ekran%20Al%C4%B1nt%C4%B1s%C4%B11.JPG?raw=true)
+![resim2](https://github.com/recepsamil/Personal-Cv-Page/blob/main/img/Ekran%20Al%C4%B1nt%C4%B1s%C4%B12.JPG?raw=true)
 Bu proje, hem yeni başlayanların öğrenmesine yardımcı olmak hem de kişisel bir portföy sayfası olarak kullanılmak üzere tasarlanmıştır. Projeyi geliştirmeye açık olup, geri bildirimlerinizi memnuniyetle karşılarım.
